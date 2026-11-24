@@ -13,7 +13,7 @@
 * `image/README/` — скриншоты интерфейса.
 
 ## Запуск
-1. Скачайте репозиторий: `git clone https://github.com`
+1. Скачайте репозиторий: `git clone https://github.com/PKO-LP/ximia_24_11`
 2. Откройте `index.html` в браузере.
 
 ## Версии
